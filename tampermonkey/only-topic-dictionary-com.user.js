@@ -6,6 +6,7 @@
 // @author       futeng
 // @match        https://www.dictionary.com/*
 // @grant        none
+// @license MIT
 // ==/UserScript==
 
 (function() {
