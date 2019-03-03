@@ -6,6 +6,7 @@
 // @author       futeng
 // @match        https://www.zhihu.com/*
 // @grant        none
+// @require      https://csdnimg.cn/public/common/libs/jquery/jquery-1.9.1.min.js
 // @license MIT
 // ==/UserScript==
 
